@@ -1,0 +1,49 @@
+
+.signup{
+    box-shadow:   10px 10px 10px #777777;
+   margin: 20px;
+   background-color: lightgoldenrodyellow;
+   padding-bottom: 10px;
+   color: brown;
+   font-family: Courier New, Courier, monospace;
+   
+   max-width: 400px;
+   padding: 10px  30px;
+   
+   
+   
+}  
+
+#login{
+    font-family: Courier New, Courier, monospace;
+    background-color: blanchedalmond;
+    box-shadow:   10px 10px 10px #777777;
+    
+    padding: 40px;
+    margin-top: 50px;
+    margin-left: 10px;
+    margin-right: 10px;
+    max-width: 400px;
+    /* min-width: 100px; */
+}
+   
+label{
+    float: left;
+}
+
+input{
+
+    text-indent: 15px;
+   
+  
+    
+   
+}
+h1{
+    width: 260px; 
+    
+}
+
+
+
+
